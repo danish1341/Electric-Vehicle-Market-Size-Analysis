@@ -17,7 +17,8 @@ This analysis focuses on the Electric Vehicle population in the United States an
 * Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles
 
 # EV Adoption Over Time Analysis using Line Plot
-The bar chart clearly illustrates the steady increase in EV adoption over time, with a particularly noticeable upward trend beginning around 2016. Up until that point, the number of registered electric vehicles grows at a modest pace. However, starting in 2017, there is a marked acceleration in the rate of growth.
+![EV ADOPTION](https://github.com/user-attachments/assets/bc8117e8-e5cb-4ebc-bcc0-80209dddf303)
+The Line Plot clearly illustrates the steady increase in EV adoption over time, with a particularly noticeable upward trend beginning around 2016. Up until that point, the number of registered electric vehicles grows at a modest pace. However, starting in 2017, there is a marked acceleration in the rate of growth.
 
 This sharp rise can be attributed to several factors, including advancements in EV technology, increasing consumer awareness of environmental concerns, government incentives, and an expanding infrastructure of charging stations. The trend continues to gain momentum, and by 2023, the chart reveals a significant surge in EV registrations. In fact, the bar for 2023 is the highest on the graph, indicating a peak in EV adoption during this period.
 
